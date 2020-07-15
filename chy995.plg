@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: chy995 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\szzs\AppData\Local\Temp\RSPA47A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/chy995.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\嘻爹搞学习，东逼就哭泣\大三下\数字图像处理\chy995\chy995View.cpp"
+]
+Creating command line "cl.exe @C:\Users\szzs\AppData\Local\Temp\RSPA47A.tmp" 
+Creating temporary file "C:\Users\szzs\AppData\Local\Temp\RSPA47B.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/chy995.pdb" /debug /machine:I386 /out:"Debug/chy995.exe" /pdbtype:sept 
+".\Debug\bmp.obj"
+".\Debug\chy995.obj"
+".\Debug\chy995Doc.obj"
+".\Debug\chy995View.obj"
+".\Debug\HistogramDlg.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\chy995.res"
+]
+Creating command line "link.exe @C:\Users\szzs\AppData\Local\Temp\RSPA47B.tmp"
+<h3>Output Window</h3>
+Compiling...
+chy995View.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/chy995.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\bmp.sbr" ".\Debug\chy995.sbr" ".\Debug\chy995Doc.sbr" ".\Debug\chy995View.sbr" ".\Debug\HistogramDlg.sbr" ".\Debug\MainFrm.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+chy995.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
